@@ -3,6 +3,7 @@ package Default;
  * My assumptions are I am considering each line as a sentence.
  * I have given an input for profane words.
  * I am determining the profanity of each sentence with the number of offensive words used in the sentence.
+ * I have assumed offensive words are given without any special characters in them.
  */
 import java.io.File;
 import java.io.FileNotFoundException;
